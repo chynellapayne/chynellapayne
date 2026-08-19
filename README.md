@@ -12,6 +12,7 @@ threats, and growing into a SOC Analyst role.
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
+- CompTIA CySA+
 - Cyber Warrior Program — MyComputerCareer (2026)
 
 ---
@@ -46,7 +47,6 @@ threats, and growing into a SOC Analyst role.
 ---
 
 ## 📚 Currently Studying
-- CySA+ (CS0-003) — CompTIA Cybersecurity Analyst
 - SOC Analyst workflows and incident response procedures
 - MITRE ATT&CK Framework and Cyber Kill Chain
 
